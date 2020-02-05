@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='base-mvp'
+rootProject.name='android-gps-processor'

@@ -13,7 +13,7 @@ android {
     def versionBuild = 0 // minor changes that is not a bug or a functionality
 
     defaultConfig {
-        applicationId "com.mgcaguioa.base_mvp"
+        applicationId "com.mgcaguioa.agp"
         minSdkVersion 15
         targetSdkVersion 29
 
